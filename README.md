@@ -1,1 +1,1 @@
-# google-reCaptcha-bypass-with-python-selenium-
+# Bypassing the Google reCaptcha with buster chrome extension using Python Selenium.
